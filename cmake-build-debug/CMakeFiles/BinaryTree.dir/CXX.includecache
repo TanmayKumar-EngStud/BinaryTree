@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanmay/CLionProjects/BinaryTree/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+string
+-
+sstream
+-
+
